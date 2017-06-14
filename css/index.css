@@ -1,45 +1,7 @@
-
-h4{
-	line-height: 50px;
-	width: 700px;
-	margin: 5px auto;
-	outline: 2px solid #000;
-	background: #f2da9f;
-}
-.h4-1{
-	float: left;
-	margin-left: 10px;
-}
-.h4-2{
-	float: right;
-	margin-right: 10px;
-}
-.mian{
+.i-mian{
 	background: #f2da9f;
 	width: 1200px;
 	height: auto;
 	margin: 20px auto 0px;
 	outline: 2px solid #000;
-}
-.m-top{
-	width: 1200px;
-	height: 120px;
-}
-.m-nav{
-	width: 90%;
-	height: 50px;
-	margin: 5px auto;
-	text-align: center;
-	line-height: 50px;
-	background: #f2da9f;
-	outline: 2px solid #000;
-	font-weight: 900;
-}
-.m-text{
-	width: 90%;
-	height: auto;
-	margin:40px auto 0px;
-	font-weight: 900;
-	outline: 2px solid #000;
-	line-height: 40px;
 }
