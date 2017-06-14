@@ -12,5 +12,4 @@ window.onload = function(){
 		var td = a.getSeconds();
 		time.innerHTML = "现在是"+tb+"点"+tc+"分钟"+td+"秒";
 	},1000)
-
 }
