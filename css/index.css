@@ -1,0 +1,12 @@
+.i-mian{
+	width: 1200px;
+	height: auto;
+	outline: 2px solid #000;
+	margin: 30px auto;
+	background: #fff;
+}
+.i-mian>h2{
+	line-height: 40px;
+	font-size: 20px;
+	text-align: center;
+}
