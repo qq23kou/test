@@ -8,13 +8,19 @@
 	<meta name="format-detection" content="telephone=no"/>
 	<meta name="msapplication-tap-highlight" content="no" />
 	<title>Document</title>
+	<link rel="stylesheet" type="text/css" href="css/page2.css" />
 	<link rel="stylesheet" type="text/css" href="css/index.css" />
 	<link rel="stylesheet" type="text/css" href="css/animate.css" />
 	<script src="js/rem.js" type="text/javascript"></script>
 </head>
 <body>
-	<div class="box" onclick="document.location.href='page2.html';">
-		<p class="animated bounceInUp">2017时髦流行病诊疗中心</p>
+	<div class="box">
+		<p class="page2_top animated zoomIn">看病就诊，请输出你的姓名</p>
+		<form class="page2_frm">
+			<input class="page2_text" type="text" name="name" />
+			<span class="page2_btn" onclick="fn()">提交</span>
+		</form>
 	</div>
 </body>
+<script src="js/page2.js" type="text/javascript"></script>
 </html>
