@@ -41,3 +41,20 @@ user-select: none;
 	margin: 0 auto;
 	font-size: 0.44rem;
 }
+.text>h1{
+	font-size: 0.6rem;
+	width: 80%;
+	margin: 0 auto;
+	color: red;
+}
+.hf{
+	width: 80%;
+	margin: 0 auto;
+}
+.hf>a{
+	display: block;
+	width: 80%;
+	color: #f0f;
+	text-align: center;
+	margin: 0 auto;
+}
